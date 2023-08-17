@@ -1,2 +1,0 @@
-
-streamlit run "C:\Users\kunde\Desktop\Multiple disease prediction app\Multiple disease pred.py"
